@@ -1,0 +1,27 @@
+US - NA
+BM - NA 
+GB - EMEA
+IE - EMEA
+China - APAC
+NL - EMEA
+PR - LATAM
+Taiwan - APAC
+CA - NA
+KY - LATAM
+India - APAC
+South Korea - APAC
+CH - EMEA
+Hong Kong - APAC
+IL - EMEA
+SG - APAC
+JE - EMEA
+HK - APAC
+BS - LATAM
+Thailand - APAC
+LU - EMEA
+TH - APAC
+Indonesia - APAC
+Singapore - APAC
+SE - EMEA
+Philippines - APAC
+Vietnam - APAC
